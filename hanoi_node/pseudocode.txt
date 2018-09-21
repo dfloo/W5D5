@@ -1,0 +1,9 @@
+class Game {
+  run() {
+    initialize board with 3 empty arrays 
+    populate board with 3 disks on first array 
+    get move from player 
+    make move on board if valid 
+    repeat until game over - all 3 disks are on 2nd or 3rd tower
+  }
+}
